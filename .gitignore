@@ -1,0 +1,51 @@
+.venv/
+__pycache__/
+*.pyc
+exports/
+.DS_Store
+
+# Added by Git Repo Creator
+# Media, archives, and AI models
+*.7z
+*.aac
+*.avi
+*.blend
+*.flac
+*.flv
+*.gz
+*.iso
+*.jpeg
+*.jpg
+*.m4a
+*.mkv
+*.mov
+*.mp3
+*.mp4
+*.ogg
+*.png
+*.rar
+*.tar
+*.wav
+*.webm
+*.wmv
+*.zip
+# Python / dev junk
+*.py[cod]
+.env
+.env.local
+*.log
+Thumbs.db
+*.tmp
+*.bak
+# Cleanup dirs kept on disk but ignored
+.idea/
+.pytest_cache/
+.vscode/
+build/
+checkpoints/
+dist/
+model_cache/
+models/
+node_modules/
+# GitHub Actions
+.github/
